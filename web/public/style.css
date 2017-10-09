@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.btn {
+    position: fixed;
+    top: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s, ease;
+}
+
+.btn:hover {
+    opacity: 0.5;
+}
+
+#fullscreen-btn {
+    right: 10px;
+}
